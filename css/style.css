@@ -1,0 +1,86 @@
+/* ==========================================================
+   STYLE GUIDE – GROUP F
+   - Use the Tab key for indentation
+   - Only write code inside your own part
+   - Use the hex codes from the style guide document
+   - Ask the group before editing the COMMON part
+   ========================================================== */
+
+
+/* ==========================================================
+   COMMON – header, footer, body
+   ========================================================== */
+body {
+   font-family: 'Lora', serif;
+   min-height: 100vh;
+   display: flex;
+   flex-direction: column;
+}
+
+main {
+   flex: 1;
+}
+
+nav {
+   background-color: #0B0B0B;
+}
+
+.navbar-brand {
+   font-family: 'Fredoka', sans-serif;
+   color: #A0DB7A !important;
+}
+
+.nav-link {
+   font-family: 'Fredoka', sans-serif;
+   color: #FFFFFF !important;
+}
+
+.nav-link:hover,
+.nav-link.active {
+   color: #FBCED7 !important;
+}
+
+footer {
+   background-color: #0B0B0B;
+   color: #FFFFFF;
+   padding: 15px 0;
+}
+
+
+/* ========== END COMMON ========== */
+
+
+/* ==========================================================
+   MANSOOR
+   ========================================================== */
+
+
+
+/* ========== END MANSOOR ========== */
+
+
+/* ==========================================================
+   IQRAM
+   ========================================================== */
+
+
+
+/* ========== END IQRAM ========== */
+
+
+/* ==========================================================
+   KAWSER
+   ========================================================== */
+
+
+
+/* ========== END KAWSER ========== */
+
+
+/* ==========================================================
+   DAVID
+   ========================================================== */
+
+
+
+/* ========== END DAVID ========== */
